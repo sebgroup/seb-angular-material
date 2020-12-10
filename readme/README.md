@@ -51,4 +51,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 The library is released via [semantic-release](https://www.npmjs.com/package/semantic-release).
 
-
